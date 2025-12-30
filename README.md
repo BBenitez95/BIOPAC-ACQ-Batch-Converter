@@ -2,8 +2,8 @@
 
 A Shiny app for batch converting BIOPAC AcqKnowledge (.acq) files to text (.txt) format.
 
-![R](https://img.shields.io/badge/R-%3E%3D4.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![R](https://img.shields.io/badge/R-4.0%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 
