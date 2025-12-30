@@ -1,11 +1,15 @@
 # BIOPAC ACQ Batch Converter
 
-A Shiny app for batch converting BIOPAC AcqKnowledge (.acq) files to text (.txt) format.
+**Version 1.0**  
+**Author:** Brian Benitez  
+**GitHub:** https://github.com/BBenitez95
 
 ![R](https://img.shields.io/badge/R-4.0%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Features
+---
+
+## Overview
 
 - Batch convert multiple .acq files or entire folders
 - Preview signal data with interactive multi-channel plots
